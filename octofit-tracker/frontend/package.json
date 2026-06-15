@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "19.0.0-rc-66cd1da-20241106",
+    "react-dom": "19.0.0-rc-66cd1da-20241106"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.0",
